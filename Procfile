@@ -1,2 +1,2 @@
-web: gunicorn app:app
+web: gunicorn app:cep_env --log-file -
 
