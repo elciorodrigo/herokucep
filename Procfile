@@ -1,2 +1,2 @@
-web: gunicorn cep_env.wsgi.wsgi
+web: gunicorn cep_env.wsgi
 
