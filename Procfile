@@ -1,2 +1,2 @@
-web: gunicorn app:cep_env.wsgi --log-file -
+web: gunicorn cep_env.wsgi.wsgi
 
